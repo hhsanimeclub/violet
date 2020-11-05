@@ -10,4 +10,4 @@ Currently, the application is still in development. However, you can contribute 
 
 In the meantime, have a good Violet picture:
 
-![Violet](https://static.wikia.nocookie.net/violet-evergarden/images/a/ae/Violet_Evergarden.png/revision/latest?cb=20180209195829)
+![Violet](raw.githubusercontent.com/hhsanimeclub/violet/main/docs/assets/img/violet.png)
