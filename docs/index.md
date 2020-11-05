@@ -10,4 +10,4 @@ Currently, the application is still in development. However, you can contribute 
 
 In the meantime, have a good Violet picture:
 
-![Violet](raw.githubusercontent.com/hhsanimeclub/violet/main/docs/assets/img/violet.png)
+![Violet](/assets/img/violet.png)
